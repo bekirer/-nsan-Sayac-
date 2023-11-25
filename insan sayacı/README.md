@@ -1,1 +1,1 @@
-# People-counter-opencv-python3
+test video here içindeki videoyu ana klasör içine çıkarınız
